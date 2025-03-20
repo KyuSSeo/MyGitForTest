@@ -11,6 +11,7 @@
             {
                 Console.WriteLine("안녕, 세계!");
 
+                Console.WriteLine("다섯 번, 반복한다!");
             }
         }
     }
